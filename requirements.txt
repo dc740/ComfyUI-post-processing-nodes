@@ -1,0 +1,5 @@
+# ComfyUI post-processing nodes (dc740 fork)
+opencv-python
+Pillow
+numpy
+torch
